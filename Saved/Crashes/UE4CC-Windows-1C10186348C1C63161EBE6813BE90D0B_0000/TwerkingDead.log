@@ -1,0 +1,862 @@
+﻿Log file open, 08/19/19 18:30:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TwerkingDead
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1346956574) SRandInit(-1346956574).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.285846
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.939s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-KBCBRJV (127.0.0.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal  -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.046s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.19-23.30.11:540][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.19-23.30.11:540][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.19-23.30.11:606][  0]LogInit: Computer: DESKTOP-KBCBRJV
+[2019.08.19-23.30.11:606][  0]LogInit: User: Isabel
+[2019.08.19-23.30.11:606][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.19-23.30.11:606][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2019.08.19-23.30.11:606][  0]LogMemory: Memory total: Physical=5.9GB (6GB approx)
+[2019.08.19-23.30.11:606][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.19-23.30.11:606][  0]LogMemory: Process Physical Memory: 273.82 MB used, 273.82 MB peak
+[2019.08.19-23.30.11:606][  0]LogMemory: Process Virtual Memory: 264.79 MB used, 264.79 MB peak
+[2019.08.19-23.30.11:606][  0]LogMemory: Physical Memory: 5092.41 MB used,  925.86 MB free, 6018.27 MB total
+[2019.08.19-23.30.11:606][  0]LogMemory: Virtual Memory: 4790.77 MB used,  925.86 MB free, 134217728.00 MB total
+[2019.08.19-23.30.11:632][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.08.19-23.30.11:632][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.08.19-23.30.12:101][  0]LogStreaming: Display: Took  0.469s to EndInitTextLocalization.
+[2019.08.19-23.30.12:102][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.19-23.30.12:137][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.19-23.30.12:137][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.19-23.30.12:370][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.19-23.30.12:470][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2019.08.19-23.30.12:470][  0]LogD3D11RHI:       4018/0/3009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.08.19-23.30.12:486][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.08.19-23.30.12:486][  0]LogD3D11RHI:       128/0/3009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.08.19-23.30.12:489][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.19-23.30.12:490][  0]LogD3D11RHI:       0/0/3009 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.19-23.30.12:490][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.19-23.30.12:519][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.19-23.30.12:519][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2019.08.19-23.30.12:519][  0]LogWindows: EnumDisplayDevices:
+[2019.08.19-23.30.12:520][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.08.19-23.30.12:520][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.19-23.30.12:520][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.08.19-23.30.12:521][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2019.08.19-23.30.12:521][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.19-23.30.12:521][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2019.08.19-23.30.12:521][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.19-23.30.12:521][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.19-23.30.12:521][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2019.08.19-23.30.12:572][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.08.19-23.30.12:572][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2019.08.19-23.30.12:572][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.19-23.30.12:601][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.19-23.30.12:602][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Intermediate/Shaders/WorkingDirectory/11772/).
+[2019.08.19-23.30.12:603][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Isabel/AppData/Local/Temp/UnrealShaderWorkingDir/4F5B69FF4FEBB855B505F8ABEE8CC1A4/'.
+[2019.08.19-23.30.13:035][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.19-23.30.13:051][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.19-23.30.13:065][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.19-23.30.13:080][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.19-23.30.13:095][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.19-23.30.13:109][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.19-23.30.13:125][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.19-23.30.13:139][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.19-23.30.13:147][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.19-23.30.13:159][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.08.19-23.30.13:171][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.08.19-23.30.13:184][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.08.19-23.30.13:196][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.08.19-23.30.13:208][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.08.19-23.30.13:221][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.08.19-23.30.13:246][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.08.19-23.30.13:246][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.08.19-23.30.13:258][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.19-23.30.13:261][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.19-23.30.13:297][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.19-23.30.13:312][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.19-23.30.13:325][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.19-23.30.13:336][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.19-23.30.13:350][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.19-23.30.13:366][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.19-23.30.13:366][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.19-23.30.13:526][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.19-23.30.13:526][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.19-23.30.13:526][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.19-23.30.17:768][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.19-23.30.17:855][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Isabel/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.19-23.30.17:855][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Isabel/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.08.19-23.30.17:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.19-23.30.17:855][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.19-23.30.17:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.19-23.30.17:856][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.19-23.30.17:873][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.19-23.30.17:886][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Isabel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.19-23.30.17:886][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.19-23.30.17:886][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.19-23.30.17:899][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.19-23.30.17:900][  0]LogSlate: Using Freetype 2.6.0
+[2019.08.19-23.30.17:953][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.19-23.30.17:953][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.19-23.30.18:832][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2019.08.19-23.30.19:222][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.19-23.30.19:658][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.19-23.30.19:663][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.19-23.30.19:663][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.19-23.30.19:663][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.19-23.30.19:663][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.08.19-23.30.19:663][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.08.19-23.30.19:779][  0]LogNetVersion: TwerkingDead , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3123967135)
+[2019.08.19-23.30.21:651][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.141438 seconds
+[2019.08.19-23.30.21:659][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.08.19-23.30.21:659][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.08.19-23.30.21:659][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.19-23.30.42:752][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.19-23.30.42:787][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.19-23.30.43:565][  0]SourceControl: Source control is disabled
+[2019.08.19-23.30.43:565][  0]SourceControl: Source control is disabled
+[2019.08.19-23.30.43:588][  0]SourceControl: Source control is disabled
+[2019.08.19-23.30.43:613][  0]SourceControl: Source control is disabled
+[2019.08.19-23.30.44:393][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.19-23.30.44:572][  0]LogOcInput: OculusInput pre-init called
+[2019.08.19-23.30.44:794][  0]LogEngine: Initializing Engine...
+[2019.08.19-23.30.44:795][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.19-23.30.44:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.19-23.30.44:797][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.19-23.30.45:328][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.19-23.30.45:349][  0]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.30.46:487][  0]LogInit: FAudioDevice initialized.
+[2019.08.19-23.30.46:712][  0]LogDerivedDataCache: Saved boot cache 0.23s 74MB C:/Users/Isabel/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.19-23.30.46:734][  0]LogInit: Texture streaming: Enabled
+[2019.08.19-23.30.46:758][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.19-23.30.46:800][  0]LogInit: Transaction tracking system initialized
+[2019.08.19-23.30.46:834][  0]BlueprintLog: New page: Editor Load
+[2019.08.19-23.30.46:982][  0]LocalizationService: Localization service is disabled
+[2019.08.19-23.30.47:175][  0]LogConsoleResponse: Display: 
+[2019.08.19-23.30.47:665][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.19-23.30.47:665][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.19-23.30.47:665][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.19-23.30.47:665][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.19-23.30.47:665][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.19-23.30.47:908][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/' took 0.03s
+[2019.08.19-23.30.48:752][  0]SourceControl: Source control is disabled
+[2019.08.19-23.30.48:752][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-23.30.48:797][  0]LightingResults: New page: Lighting Build
+[2019.08.19-23.30.48:801][  0]MapCheck: New page: Map Check
+[2019.08.19-23.30.48:801][  0]LightingResults: New page: Lighting Build
+[2019.08.19-23.30.49:284][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026c4cd8aa00, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.08.19-23.30.49:477][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026c4cd8aa00, Size=64
+[2019.08.19-23.30.49:477][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026c4cd8aac0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.08.19-23.30.49:557][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026c4c9a81d0, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.08.19-23.30.50:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026c4c93c540, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.19-23.30.50:236][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026c4c93c540, Size=296
+[2019.08.19-23.30.50:236][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026c57f2f880, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.19-23.30.50:260][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000026c57f2ec00, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2019.08.19-23.30.51:774][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [28.580088ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.08.19-23.30.52:096][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.08.19-23.30.52:172][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-23.30.52:186][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026c4cd8aac0, Size=64
+[2019.08.19-23.30.52:186][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000026c57f2f880, Size=296
+[2019.08.19-23.30.52:188][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-23.30.52:261][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.511ms to complete.
+[2019.08.19-23.30.52:261][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.509
+[2019.08.19-23.30.52:871][  0]LogCollectionManager: Loaded 0 collections in 0.002666 seconds
+[2019.08.19-23.30.52:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Collections/' took 0.01s
+[2019.08.19-23.30.52:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/Developers/Isabel/Collections/' took 0.01s
+[2019.08.19-23.30.52:977][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/Collections/' took 0.01s
+[2019.08.19-23.30.52:977][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.19-23.30.52:990][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2452 classes and 558 folders.
+[2019.08.19-23.30.53:091][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.19-23.30.55:220][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.08.19-23.30.55:266][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.08.19-23.30.55:561][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.19-23.30.55:566][  0]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.19-23.30.55:612][  0]LogSlate: Took 0.031774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.19-23.30.56:174][  0]LogRenderer: Reallocating scene render targets to support 1196x652 Format 10 NumSamples 1 (Frame:1).
+[2019.08.19-23.30.56:512][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.19-23.30.56:512][  0]LogLoad: (Engine Initialization) Total time: 50.11 seconds
+[2019.08.19-23.30.56:512][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.19-23.30.56:529][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.19-23.30.56:548][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.19-23.30.57:208][  2]LogAssetRegistry: Asset discovery search completed in 38.3974 seconds
+[2019.08.19-23.30.57:212][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.19-23.30.57:212][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.08.19-23.31.07:433][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.31.15:320][763]LogSlate: Took 0.039093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.19-23.31.37:721][763]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.31.37:801][763]Cmd: MAP LOAD FILE="../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.19-23.31.37:801][763]LightingResults: New page: Lighting Build
+[2019.08.19-23.31.37:802][763]LoadErrors: New page: Loading map: policeStation.umap
+[2019.08.19-23.31.37:833][763]MapCheck: New page: Map Check
+[2019.08.19-23.31.37:833][763]LightingResults: New page: Lighting Build
+[2019.08.19-23.31.43:231][763]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.19-23.31.43:272][763]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.19-23.31.43:367][763]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.985ms to complete.
+[2019.08.19-23.31.43:367][763]LogFileHelpers: Loading map 'policeStation' took 5.569
+[2019.08.19-23.31.56:566][474]LogHttp: Warning: 0000026C78E94880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.31.56:566][474]LogHttp: Warning: 0000026C78E94880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.31.56:566][474]LogHttp: Warning: 0000026C78E94880: libcurl info message cache 1 (Closing connection 0)
+[2019.08.19-23.31.57:301][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.32.23:426][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.08.19-23.32.27:152][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.32.32:466][438]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2019.08.19-23.32.44:272][131]LogSlate: Window 'M_Concrete_Tiles_Inst*' being destroyed
+[2019.08.19-23.32.44:277][131]LogSlate: Window 'M_Concrete_Tiles_Inst*' being destroyed
+[2019.08.19-23.32.44:360][131]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles_Inst, compiling. 
+[2019.08.19-23.32.46:481][131]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.08.19-23.32.46:483][131]TextureStreamingBuild: Display: Compiling optional shaders took 2.141 seconds.
+[2019.08.19-23.33.31:265][755]LogSlate: Window 'M_Concrete_Tiles_Inst*' being destroyed
+[2019.08.19-23.33.31:273][755]LogSlate: Window 'M_Concrete_Tiles_Inst*' being destroyed
+[2019.08.19-23.33.40:884][153]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.19-23.33.56:595][346]LogHttp: Warning: 0000026C16DBA980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.33.56:596][346]LogHttp: Warning: 0000026C16DBA980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.33.56:596][346]LogHttp: Warning: 0000026C16DBA980: libcurl info message cache 1 (Closing connection 1)
+[2019.08.19-23.34.30:604][763]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Isabel\Desktop\img base\concrete.jpg)
+[2019.08.19-23.34.30:623][763]LogTexture: Display: Building textures: concrete (AutoDXT, 640X480)
+[2019.08.19-23.34.36:422][ 77]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.19-23.34.36:456][ 77]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.08.19-23.34.36:456][ 77]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.19-23.34.36:456][ 77]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.19-23.34.36:463][ 77]LogMaterial: Warning: Material /Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat.concrete_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.08.19-23.34.36:492][ 77]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.19-23.34.36:547][ 77]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.08.19-23.34.37:611][138]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.08.19-23.34.40:152][279]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.08.19-23.34.40:169][280]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.08.19-23.34.42:965][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.34.43:228][458]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.19-23.34.43:240][458]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.19-23.34.43:240][458]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.19-23.34.43:240][458]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.19-23.34.43:492][458]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.19-23.34.43:508][458]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.19-23.34.43:508][458]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.19-23.34.43:508][458]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.19-23.34.43:550][458]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.19-23.34.43:564][458]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.19-23.34.43:599][458]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.08.19-23.34.43:651][458]LogSlate: Took 0.028782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.08.19-23.34.44:137][458]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.19-23.34.44:258][461]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.08.19-23.34.44:293][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.19-23.34.44:687][475]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.08.19-23.34.44:803][479]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.08.19-23.34.44:970][485]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.08.19-23.34.45:083][489]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.08.19-23.34.45:136][491]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.08.19-23.34.45:444][501]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.08.19-23.34.45:472][502]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.08.19-23.34.45:697][510]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.19-23.34.45:724][511]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.08.19-23.34.46:045][523]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.08.19-23.34.46:045][523]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2019.08.19-23.34.46:045][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.08.19-23.34.46:045][523]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.08.19-23.34.46:045][523]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.19-23.34.46:045][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.19-23.35.08:516][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.13:081][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.22:108][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.25:110][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.31:623][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.37:422][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.41:101][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.45:516][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.35.56:628][146]LogHttp: Warning: 0000026C86597400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.35.56:629][146]LogHttp: Warning: 0000026C86597400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.35.56:629][146]LogHttp: Warning: 0000026C86597400: libcurl info message cache 1 (Closing connection 2)
+[2019.08.19-23.36.01:508][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.36.11:407][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.36.28:819][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.36.47:038][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.37.03:328][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.37.14:171][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.37.23:903][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.37.29:646][ 67]Cmd: SELECT NONE
+[2019.08.19-23.37.31:942][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.37.35:296][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.37.56:655][183]LogHttp: Warning: 0000026C179A8E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.37.56:655][183]LogHttp: Warning: 0000026C179A8E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.37.56:655][183]LogHttp: Warning: 0000026C179A8E80: libcurl info message cache 1 (Closing connection 3)
+[2019.08.19-23.38.04:913][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.38.06:343][190]Cmd: EDCALLBACK SURFPROPS
+[2019.08.19-23.38.59:300][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_Celdas2)
+[2019.08.19-23.39.00:827][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.39.44:276][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.39.49:005][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sm_Celdas2)
+[2019.08.19-23.39.52:747][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.39.56:685][823]LogHttp: Warning: 0000026C9138D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.39.56:685][823]LogHttp: Warning: 0000026C9138D900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.39.56:686][823]LogHttp: Warning: 0000026C9138D900: libcurl info message cache 1 (Closing connection 4)
+[2019.08.19-23.40.01:959][326]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.40.53:011][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.40.55:674][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.40.58:906][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.41.21:818][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.41.32:318][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.41.41:438][676]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.41.56:726][118]LogHttp: Warning: 0000026C82F8D600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.41.56:726][118]LogHttp: Warning: 0000026C82F8D600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.41.56:726][118]LogHttp: Warning: 0000026C82F8D600: libcurl info message cache 1 (Closing connection 5)
+[2019.08.19-23.41.58:156][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.41.58:285][264]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.41.58:313][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.41.58:358][264]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:41:58 PM)
+[2019.08.19-23.41.58:359][264]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.41.58:475][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115574s)
+[2019.08.19-23.41.58:475][264]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.41.58:476][264]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2019.08.19-23.41.58:476][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.117534s)
+[2019.08.19-23.41.58:499][264]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.41.58:581][264]LogInit: FAudioDevice initialized.
+[2019.08.19-23.41.58:656][264]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.41.58:695][264]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.41.58
+[2019.08.19-23.41.58:697][264]LogWorld: Bringing up level for play took: 0.008256
+[2019.08.19-23.41.58:757][264]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2019.08.19-23.41.58:784][264]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation 0.06
+[2019.08.19-23.42.25:902][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.42.29:679][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.42.33:567][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.42.52:471][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.42.58:110][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.42.58:206][704]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.42.58:236][704]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.42.58:237][704]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:42:58 PM)
+[2019.08.19-23.42.58:237][704]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.42.58:280][704]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043174s)
+[2019.08.19-23.42.58:281][704]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.42.58:282][704]LogPlayLevel: PIE: World Init took: (0.001451s)
+[2019.08.19-23.42.58:282][704]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.044941s)
+[2019.08.19-23.42.58:309][704]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.42.58:411][704]LogInit: FAudioDevice initialized.
+[2019.08.19-23.42.58:449][704]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.42.58:458][704]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.42.58
+[2019.08.19-23.42.58:458][704]LogWorld: Bringing up level for play took: 0.008152
+[2019.08.19-23.42.58:479][704]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation -0.245
+[2019.08.19-23.43.24:860][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.43.25:022][825]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.43.25:056][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.43.25:056][825]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:43:25 PM)
+[2019.08.19-23.43.25:057][825]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.43.25:104][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047118s)
+[2019.08.19-23.43.25:105][825]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.43.25:105][825]LogPlayLevel: PIE: World Init took: (0.001148s)
+[2019.08.19-23.43.25:105][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.048558s)
+[2019.08.19-23.43.25:137][825]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.43.25:253][825]LogInit: FAudioDevice initialized.
+[2019.08.19-23.43.25:290][825]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.43.25:300][825]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.43.25
+[2019.08.19-23.43.25:301][825]LogWorld: Bringing up level for play took: 0.009809
+[2019.08.19-23.43.25:321][825]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation 0.597
+[2019.08.19-23.43.56:752][ 48]LogHttp: Warning: 0000026C51C5EF80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.43.56:752][ 48]LogHttp: Warning: 0000026C51C5EF80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.43.56:752][ 48]LogHttp: Warning: 0000026C51C5EF80: libcurl info message cache 1 (Closing connection 6)
+[2019.08.19-23.44.06:348][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.44.06:497][836]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.44.06:536][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.44.06:537][836]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:44:06 PM)
+[2019.08.19-23.44.06:537][836]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.44.06:577][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040523s)
+[2019.08.19-23.44.06:578][836]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.44.06:579][836]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2019.08.19-23.44.06:579][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.042154s)
+[2019.08.19-23.44.06:604][836]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.44.06:704][836]LogInit: FAudioDevice initialized.
+[2019.08.19-23.44.06:740][836]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.44.06:749][836]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.44.06
+[2019.08.19-23.44.06:749][836]LogWorld: Bringing up level for play took: 0.007683
+[2019.08.19-23.44.06:752][836]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation 0.028
+[2019.08.19-23.44.22:039][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.44.26:474][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.08.19-23.44.29:325][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.44.41:737][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.45.14:724][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.45.17:668][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.45.45:453][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.19-23.45.46:379][511]LogSavePackage: Save=347.86ms
+[2019.08.19-23.45.46:379][511]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/policeStation_Auto1ABB69E194D55CE6E40DF3C95F430C7F3.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Autosaves/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation_Auto1.umap'
+[2019.08.19-23.45.46:595][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Autosaves/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation_Auto1.umap
+[2019.08.19-23.45.46:603][511]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation' took 1.112
+[2019.08.19-23.45.46:604][511]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.112
+[2019.08.19-23.45.46:644][511]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete] ([1] browsable assets)...
+[2019.08.19-23.45.46:653][511]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete.concrete]
+[2019.08.19-23.45.46:653][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete]
+[2019.08.19-23.45.46:700][511]LogSavePackage: Save=44.57ms
+[2019.08.19-23.45.46:700][511]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/concrete_Auto198F2C4F946CAFDB1C35D2BA837BB9F46.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Autosaves/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Auto1.uasset'
+[2019.08.19-23.45.46:725][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Autosaves/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Auto1.uasset
+[2019.08.19-23.45.46:726][511]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat] ([1] browsable assets)...
+[2019.08.19-23.45.46:758][511]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat.concrete_Mat]
+[2019.08.19-23.45.46:758][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat]
+[2019.08.19-23.45.46:777][511]LogSavePackage: Save=16.97ms
+[2019.08.19-23.45.46:777][511]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/concrete_Mat_Auto1D99ED8DB45B8ED1958D69B855642C0C2.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Autosaves/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat_Auto1.uasset'
+[2019.08.19-23.45.46:779][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/Autosaves/Game/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat_Auto1.uasset
+[2019.08.19-23.45.46:779][511]LogFileHelpers: Auto-saving content packages took 0.172
+[2019.08.19-23.45.56:802][534]LogHttp: Warning: 0000026C86677400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.45.56:802][534]LogHttp: Warning: 0000026C86677400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.45.56:802][534]LogHttp: Warning: 0000026C86677400: libcurl info message cache 1 (Closing connection 7)
+[2019.08.19-23.46.57:306][772]Cmd: EDCALLBACK SURFPROPS
+[2019.08.19-23.47.08:734][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.47.30:280][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.47.37:631][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.47.53:269][497]Cmd: DELETE
+[2019.08.19-23.47.53:269][497]Cmd: ACTOR DELETE
+[2019.08.19-23.47.53:305][497]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-23.47.53:430][497]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2019.08.19-23.47.56:824][883]LogHttp: Warning: 0000026CADB6B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.47.56:824][883]LogHttp: Warning: 0000026CADB6B400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.47.56:824][883]LogHttp: Warning: 0000026CADB6B400: libcurl info message cache 1 (Closing connection 8)
+[2019.08.19-23.48.05:329][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.48.05:452][884]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.48.05:472][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.48.05:473][884]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:48:05 PM)
+[2019.08.19-23.48.05:473][884]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.48.05:496][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023490s)
+[2019.08.19-23.48.05:497][884]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.48.05:497][884]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.08.19-23.48.05:497][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.024635s)
+[2019.08.19-23.48.05:511][884]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.48.05:589][884]LogInit: FAudioDevice initialized.
+[2019.08.19-23.48.05:624][884]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.48.05:631][884]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.48.05
+[2019.08.19-23.48.05:631][884]LogWorld: Bringing up level for play took: 0.006282
+[2019.08.19-23.48.05:634][884]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation 0.91
+[2019.08.19-23.48.19:850][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.48.19:962][800]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.48.20:005][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.48.20:005][800]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:48:20 PM)
+[2019.08.19-23.48.20:005][800]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.48.20:064][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057826s)
+[2019.08.19-23.48.20:065][800]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.48.20:066][800]LogPlayLevel: PIE: World Init took: (0.002099s)
+[2019.08.19-23.48.20:066][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.060464s)
+[2019.08.19-23.48.20:104][800]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.48.20:234][800]LogInit: FAudioDevice initialized.
+[2019.08.19-23.48.20:277][800]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.48.20:290][800]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.48.20
+[2019.08.19-23.48.20:290][800]LogWorld: Bringing up level for play took: 0.011521
+[2019.08.19-23.48.20:295][800]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation -0.429
+[2019.08.19-23.48.59:723][452]Cmd: TRANSACTION UNDO
+[2019.08.19-23.48.59:723][452]LogEditorTransaction: Undo Move Actors
+[2019.08.19-23.48.59:745][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush15_32.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:746][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:748][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:748][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush32.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:749][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush5.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:749][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:756][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:757][452]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2019.08.19-23.48.59:889][452]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.19-23.48.59:914][452]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.19-23.48.59:914][452]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.19-23.48.59:914][452]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.19-23.48.59:914][452]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.08.19-23.49.01:023][503]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.08.19-23.49.01:092][505]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.08.19-23.49.01:111][506]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.19-23.49.01:191][510]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.08.19-23.49.01:477][525]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.19-23.49.01:534][528]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.08.19-23.49.01:556][529]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.08.19-23.49.01:963][550]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.08.19-23.49.02:357][570]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.08.19-23.49.02:396][572]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.08.19-23.49.02:454][575]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.08.19-23.49.02:487][577]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.08.19-23.49.02:898][589]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.08.19-23.49.03:168][599]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.08.19-23.49.03:541][619]MaterialEditorStats: Base pass shader: 102 instructions
+[2019.08.19-23.49.03:541][619]MaterialEditorStats: Base pass shader with Surface Lightmap: 119 instructions
+[2019.08.19-23.49.03:541][619]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2019.08.19-23.49.03:541][619]MaterialEditorStats: Vertex shader: 38 instructions
+[2019.08.19-23.49.03:541][619]MaterialEditorStats: Texture samplers: 4/16
+[2019.08.19-23.49.03:541][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.08.19-23.49.11:184][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.49.25:548][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.49.56:848][751]LogHttp: Warning: 0000026C86677700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.49.56:848][751]LogHttp: Warning: 0000026C86677700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.49.56:848][751]LogHttp: Warning: 0000026C86677700: libcurl info message cache 1 (Closing connection 9)
+[2019.08.19-23.50.10:320][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.50.15:848][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.50.23:020][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.50.34:224][402]Cmd: DELETE
+[2019.08.19-23.50.34:224][402]Cmd: ACTOR DELETE
+[2019.08.19-23.50.34:235][402]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-23.50.34:341][402]LogEditorActor: Deleted 1 Actors (0.117 secs)
+[2019.08.19-23.50.53:069][218]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.51.01:192][ 59]Cmd: DELETE
+[2019.08.19-23.51.01:192][ 59]Cmd: ACTOR DELETE
+[2019.08.19-23.51.01:204][ 59]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-23.51.01:317][ 59]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2019.08.19-23.51.56:867][785]LogHttp: Warning: 0000026C037D6980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.51.56:867][785]LogHttp: Warning: 0000026C037D6980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.51.56:867][785]LogHttp: Warning: 0000026C037D6980: libcurl info message cache 1 (Closing connection 10)
+[2019.08.19-23.53.00:119][428]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.53.15:279][950]Cmd: DELETE
+[2019.08.19-23.53.15:279][950]Cmd: ACTOR DELETE
+[2019.08.19-23.53.15:290][950]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-23.53.15:355][950]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2019.08.19-23.53.25:539][950]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.53.56:917][236]LogHttp: Warning: 0000026C518A4100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.53.56:917][236]LogHttp: Warning: 0000026C518A4100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.53.56:917][236]LogHttp: Warning: 0000026C518A4100: libcurl info message cache 1 (Closing connection 11)
+[2019.08.19-23.54.51:923][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.55.16:302][411]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.55.23:732][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.55.25:623][180]LogSlate: Window 'Save Content' being destroyed
+[2019.08.19-23.55.26:152][180]LogSavePackage: Save=330.60ms
+[2019.08.19-23.55.26:152][180]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/policeStationBC9B78E249A5777CBBF3B29A021AB419.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.umap'
+[2019.08.19-23.55.26:163][180]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.umap
+[2019.08.19-23.55.26:198][180]LogFileHelpers: Saving map 'policeStation' took 0.528
+[2019.08.19-23.55.26:262][180]LogSavePackage: Save=50.18ms
+[2019.08.19-23.55.26:262][180]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/concreteF94A36BC4FF242648FAEC8B5D284B5FE.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete.uasset'
+[2019.08.19-23.55.26:268][180]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete.uasset
+[2019.08.19-23.55.26:327][180]LogSavePackage: Save=16.50ms
+[2019.08.19-23.55.26:327][180]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/concrete_MatF8929B7C40C848C53ADC1F87B3EE39E3.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat.uasset'
+[2019.08.19-23.55.26:354][180]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Materials/textures/concrete_Mat.uasset
+[2019.08.19-23.55.28:137][302]LogSavePackage: Save=337.22ms
+[2019.08.19-23.55.28:137][302]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/policeStationEBC8C1044E4ED5C2625FB4BC9E8A1F56.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.umap'
+[2019.08.19-23.55.28:140][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.umap
+[2019.08.19-23.55.29:083][302]LogSavePackage: Save=562.87ms
+[2019.08.19-23.55.29:083][302]LogSavePackage: Moving '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Saved/policeStation_BuiltDataF38DF6BE41625755FBDC0DABB358C4C1.tmp' to '../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation_BuiltData.uasset'
+[2019.08.19-23.55.29:123][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Isabel/Documents/Unreal Projects/TwerkingDead/Content/ThirdPersonBP/Levels/PoliceStation/Map/policeStation_BuiltData.uasset
+[2019.08.19-23.55.30:401][408]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.55.30:423][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.55.30:423][408]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:55:30 PM)
+[2019.08.19-23.55.30:423][408]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.55.30:493][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069572s)
+[2019.08.19-23.55.30:494][408]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.55.30:495][408]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2019.08.19-23.55.30:495][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.071062s)
+[2019.08.19-23.55.30:511][408]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.55.30:590][408]LogInit: FAudioDevice initialized.
+[2019.08.19-23.55.30:622][408]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.55.30:628][408]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 0) at 2019.08.19-18.55.30
+[2019.08.19-23.55.30:628][408]LogWorld: Bringing up level for play took: 0.005115
+[2019.08.19-23.55.30:631][408]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation -0.093
+[2019.08.19-23.55.54:207][810]Cmd: DELETE
+[2019.08.19-23.55.54:207][810]Cmd: ACTOR DELETE
+[2019.08.19-23.55.54:224][810]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-23.55.54:413][810]LogEditorActor: Deleted 1 Actors (0.206 secs)
+[2019.08.19-23.55.56:096][928]Cmd: EDCALLBACK SURFPROPS
+[2019.08.19-23.55.56:932][984]LogHttp: Warning: 0000026C86767400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.55.56:932][984]LogHttp: Warning: 0000026C86767400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.55.56:932][984]LogHttp: Warning: 0000026C86767400: libcurl info message cache 1 (Closing connection 12)
+[2019.08.19-23.56.00:331][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.56.12:668][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.56.27:864][643]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.56.45:358][319]Cmd: DELETE
+[2019.08.19-23.56.45:358][319]Cmd: ACTOR DELETE
+[2019.08.19-23.56.45:368][319]LogEditorActor: Deleted Actor: Brush
+[2019.08.19-23.56.45:433][319]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2019.08.19-23.57.05:016][173]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush47)
+[2019.08.19-23.57.08:472][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.57.47:479][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.19-23.57.56:975][ 21]LogHttp: Warning: 0000026C0EEB7580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.57.56:975][ 21]LogHttp: Warning: 0000026C0EEB7580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.57.56:975][ 21]LogHttp: Warning: 0000026C0EEB7580: libcurl info message cache 1 (Closing connection 13)
+[2019.08.19-23.58.11:225][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.59.19:345][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.59.19:445][814]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.19-23.59.19:464][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.19-23.59.19:464][814]PIE: New page: PIE session: policeStation (Aug 19, 2019, 1:59:19 PM)
+[2019.08.19-23.59.19:465][814]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.19-23.59.19:566][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101974s)
+[2019.08.19-23.59.19:567][814]LogAIModule: Creating AISystem for world policeStation
+[2019.08.19-23.59.19:567][814]LogPlayLevel: PIE: World Init took: (0.001220s)
+[2019.08.19-23.59.19:567][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.103400s)
+[2019.08.19-23.59.19:584][814]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.19-23.59.19:663][814]LogInit: FAudioDevice initialized.
+[2019.08.19-23.59.19:694][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.19-23.59.19:699][814]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 60) at 2019.08.19-18.59.19
+[2019.08.19-23.59.19:700][814]LogWorld: Bringing up level for play took: 0.004711
+[2019.08.19-23.59.19:702][814]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation 0.979
+[2019.08.19-23.59.46:441][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.19-23.59.57:012][ 31]LogHttp: Warning: 0000026C0EEB5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.19-23.59.57:012][ 31]LogHttp: Warning: 0000026C0EEB5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.19-23.59.57:012][ 31]LogHttp: Warning: 0000026C0EEB5A80: libcurl info message cache 1 (Closing connection 14)
+[2019.08.20-00.00.01:243][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-00.00.51:554][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-00.00.57:919][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-00.00.58:019][567]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-00.00.58:037][567]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-00.00.58:038][567]PIE: New page: PIE session: policeStation (Aug 19, 2019, 2:00:58 PM)
+[2019.08.20-00.00.58:038][567]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.20-00.00.58:067][567]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029538s)
+[2019.08.20-00.00.58:069][567]LogAIModule: Creating AISystem for world policeStation
+[2019.08.20-00.00.58:069][567]LogPlayLevel: PIE: World Init took: (0.001517s)
+[2019.08.20-00.00.58:069][567]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.031364s)
+[2019.08.20-00.00.58:089][567]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-00.00.58:170][567]LogInit: FAudioDevice initialized.
+[2019.08.20-00.00.58:208][567]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-00.00.58:213][567]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 60) at 2019.08.19-19.00.58
+[2019.08.20-00.00.58:214][567]LogWorld: Bringing up level for play took: 0.005984
+[2019.08.20-00.00.58:217][567]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation -0.506
+[2019.08.20-00.01.10:492][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-00.01.13:815][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-00.01.13:964][497]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.20-00.01.13:982][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.20-00.01.13:983][497]PIE: New page: PIE session: policeStation (Aug 19, 2019, 2:01:13 PM)
+[2019.08.20-00.01.13:983][497]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation
+[2019.08.20-00.01.14:026][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042895s)
+[2019.08.20-00.01.14:027][497]LogAIModule: Creating AISystem for world policeStation
+[2019.08.20-00.01.14:027][497]LogPlayLevel: PIE: World Init took: (0.001287s)
+[2019.08.20-00.01.14:027][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation to /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation (0.044454s)
+[2019.08.20-00.01.14:046][497]LogInit: XAudio2 using 'Altavoces / Auriculares (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.08.20-00.01.14:129][497]LogInit: FAudioDevice initialized.
+[2019.08.20-00.01.14:160][497]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.08.20-00.01.14:167][497]LogWorld: Bringing World /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation.policeStation up for play (max tick rate 60) at 2019.08.19-19.01.14
+[2019.08.20-00.01.14:167][497]LogWorld: Bringing up level for play took: 0.006523
+[2019.08.20-00.01.14:170][497]PIE: Play in editor start time for /Game/ThirdPersonBP/Levels/PoliceStation/Map/UEDPIE_0_policeStation -0.553
+[2019.08.20-00.01.50:069][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.20-00.01.57:078][ 51]LogHttp: Warning: 0000026C14DB1900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.08.20-00.01.57:078][ 51]LogHttp: Warning: 0000026C14DB1900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.08.20-00.01.57:078][ 51]LogHttp: Warning: 0000026C14DB1900: libcurl info message cache 1 (Closing connection 15)
+[2019.08.20-00.02.04:469][488]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-00.02.19:904][373]Cmd: DELETE
+[2019.08.20-00.02.19:904][373]Cmd: ACTOR DELETE
+[2019.08.20-00.02.19:914][373]LogEditorActor: Deleted Actor: Brush
+[2019.08.20-00.02.20:007][373]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2019.08.20-00.02.40:788][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.08.20-00.02.58:295][556]Cmd: TRANSACTION UNDO
+[2019.08.20-00.02.58:295][556]LogEditorTransaction: Undo Move Actors
+[2019.08.20-00.02.58:308][556]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush17_39.BrushComponent0) Component already registered.
+[2019.08.20-00.02.58:312][556]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush11_13.BrushComponent0) Component already registered.
+[2019.08.20-00.02.58:313][556]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2019.08.20-00.02.58:313][556]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2019.08.20-00.02.58:316][556]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Levels/PoliceStation/Map/policeStation.policeStation:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2019.08.20-00.02.58:396][556]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.20-00.02.58:413][556]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.20-00.02.58:413][556]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.20-00.02.58:413][556]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.20-00.02.58:413][556]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.08.20-00.02.59:229][596]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.08.20-00.02.59:260][598]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.08.20-00.02.59:260][598]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.08.20-00.02.59:291][600]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.08.20-00.02.59:456][609]Cmd: TRANSACTION UNDO
+[2019.08.20-00.02.59:457][609]LogEditorTransaction: Undo Select Brush Surface
+[2019.08.20-00.02.59:495][609]LogMaterial: Missing cached shader map for material concrete_Mat, compiling. 
+[2019.08.20-00.02.59:504][609]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.08.20-00.02.59:509][609]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2019.08.20-00.02.59:677][609]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.08.20-00.02.59:677][609]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.08.20-00.02.59:677][609]LogShaderCompilers: Display: Shaders left to compile 15
